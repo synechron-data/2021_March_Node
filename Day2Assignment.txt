@@ -1,0 +1,5 @@
+Use express generator to create an application and implement CRUD operation and also persist the data in a JSON file.
+
+Use MVC pattern to structure the application.
+
+DAL should use promise based implementation.

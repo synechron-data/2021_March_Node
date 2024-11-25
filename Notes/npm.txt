@@ -1,0 +1,54 @@
+To install and uninstall production packages
+
+npm install --save <package_name>
+npm install <package_name>
+npm i <package_name>
+
+npm i <package_name>@version
+
+e.g
+npm i chokidar@2
+npm i chokidar@2.0
+npm i chokidar@2.0.5
+
+npm uninstall <package_name>
+
+
+----------------------------------------------------------
+To install and uninstall development packages
+
+npm install --save-dev <package_name>
+npm i -D <package_name>
+
+npm install --save-dev <package_name>@version
+npm i -D <package_name>@version
+
+-----
+
+npm uninstall --save-dev <package_name>
+npm uninstall -D <package_name>
+
+---------------------------------------------------------- Global
+To install and uninstall global packages
+
+npm install --global <package_name>
+npm install -g <package_name>
+
+npm uninstall --global <package_name>
+npm uninstall -g <package_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
